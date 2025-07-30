@@ -22,10 +22,10 @@ repository               : "misatosato/misatosato.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "misato_sato.jpg"
+  avatar           : "misato_profile.png"
   name             : "Assistant Professor"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"1
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Londom, UK"
   employer         : "London School of Economics"
   uri              : http://www.lse.ac.uk/ # URL
