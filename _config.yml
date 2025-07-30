@@ -28,8 +28,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Londom, UK"
   employer         : "London School of Economics"
-  uri              : http://www.lse.ac.uk/ # URL
-  email            : "m.sato1@lse.ac.uk 
+  uri              : "https://www.lse.ac.uk/" # URL
+  email            : "m.sato1@lse.ac.uk"
 
   # Academic websites
   academia         : # URL
@@ -69,7 +69,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : MisatoSato # Username for X / Twitter
+  twitter          : "MisatoSato" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
