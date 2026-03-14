@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://misatosato.github.io/pages/sitemap.xml
+Sitemap: https://misatosato.github.io/sitemap.xml
