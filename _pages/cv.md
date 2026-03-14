@@ -2,8 +2,15 @@
 layout: page
 permalink: /cv/
 title: CV
-description: "this page will redirect you to the cv PDF"
+description: 
 nav: true
 nav_order: 4
-redirect: /assets/pdf/cv_sato-8.pdf
+# redirect: /assets/pdf/cv_sato-8.pdf
 ---
+
+<iframe 
+  src="/assets/pdfjs/web/viewer.html?file=/assets/pdf/cv_sato-8.pdf"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
