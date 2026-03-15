@@ -9,7 +9,7 @@ nav_order: 4
 ---
 
 <iframe 
-  src="/assets/pdfjs/web/viewer.html?file=/assets/pdf/cv_sato-8.pdf"
+  src="/assets/pdf/cv_sato-8.pdf"
   width="100%"
   height="800px"
   style="border: none;">
