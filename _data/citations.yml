@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-19'
 papers:
   5rj_iEMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 82
     title: 'Sectors Under Scrutiny: Evaluation of Indicators to Assess the Risk of Carbon Leakage in the UK and Germany'
     year: '2015'
+  5rj_iEMAAAAJ:1sJd4Hv_s6UC:
+    citations: 0
+    title: 'Climate Campaigns, Cap and Trade, and Carbon Leakage: Why Trying to Reduce Your Carbon Footprint Can Harm the Climate'
+    year: Unknown Year
   5rj_iEMAAAAJ:2osOgNQ5qMEC:
     citations: 33
     title: The role of auctions for emissions trading
@@ -38,11 +42,11 @@ papers:
     title: "Eine Option f\xFCr den Emissionshandel nach 2020: Einbeziehung des Konsums emissionsintensiver Materialien; Ergebnisse eines Forschungsprojektes des Netzwerkes Climate Strategies"
     year: '2016'
   5rj_iEMAAAAJ:8k81kl-MbHgC:
-    citations: 387
+    citations: 391
     title: "The effects and side\u2010effects of the EU emissions trading scheme"
     year: '2014'
   5rj_iEMAAAAJ:9yKSN-GCB0IC:
-    citations: 92
+    citations: 93
     title: Implications of announced phase II national allocation plans for the EU ETS
     year: '2006'
   5rj_iEMAAAAJ:BqipwSGYUEgC:
@@ -61,6 +65,10 @@ papers:
     citations: 0
     title: 'Including consumption of bulk materials into the EU-ETS: A way to re-establish incentives for material efficiency and to avoid carbon leakage'
     year: '2016'
+  5rj_iEMAAAAJ:KxtntwgDAa4C:
+    citations: 6
+    title: What is carbon leakage? Clarifying misconceptions for a better mitigation effort
+    year: '2021'
   5rj_iEMAAAAJ:L8Ckcad2t8MC:
     citations: 5
     title: "Eine Option f\xFCr den Emissionshandel nach 2020: Einbeziehung des Konsums emissionsintensiver Materialien"
@@ -89,14 +97,22 @@ papers:
     citations: 160
     title: Asymmetric industrial energy prices and international trade
     year: '2015'
+  5rj_iEMAAAAJ:P5F9QuxV20EC:
+    citations: 5
+    title: Assessing the effectiveness of the EU emissions trading system. Grantham Research Institute on Climate Change and the Environment
+    year: '2022'
   5rj_iEMAAAAJ:QIV2ME_5wuYC:
     citations: 3
     title: Demand for offsetting and insetting in the EU Emissions Trading System
     year: '2016'
   5rj_iEMAAAAJ:RYcK_YlVTxYC:
-    citations: 221
+    citations: 232
     title: Carbon leakage, consumption, and trade
     year: '2022'
+  5rj_iEMAAAAJ:SP6oXDckpogC:
+    citations: 0
+    title: 'Adoption, incidence and welfare impacts of interest- free loans: evidence from solar PV'
+    year: '2026'
   5rj_iEMAAAAJ:Se3iqnhoufwC:
     citations: 5
     title: 'Climate Strategies Report: Differentiation and Dynamics of EU ETS Industrial'
@@ -117,6 +133,10 @@ papers:
     citations: 0
     title: NEW ENTRANTS ALLOCATION OF CO2 EMISSIONS ALLOWANCES IN THE EU ETS-THE ELECTRICITY SECTOR CASE
     year: '2006'
+  5rj_iEMAAAAJ:UxriW0iASnsC:
+    citations: 0
+    title: 'Returns to green tasks in Europe: evidence from online job vacancies'
+    year: '2026'
   5rj_iEMAAAAJ:WF5omc3nYNoC:
     citations: 0
     title: Demand response from CO2 prices in energy-intensive industries
@@ -138,7 +158,7 @@ papers:
     title: Do financial markets respond to green opportunities?
     year: '2024'
   5rj_iEMAAAAJ:Zph67rFs4hoC:
-    citations: 1348
+    citations: 1367
     title: The impacts of environmental regulations on competitiveness
     year: '2017'
   5rj_iEMAAAAJ:_FxGoFyzp5QC:
@@ -154,7 +174,7 @@ papers:
     title: The impacts of environmental regulations on competitiveness. Policy Brief
     year: '2014'
   5rj_iEMAAAAJ:a0OBvERweLwC:
-    citations: 16
+    citations: 17
     title: Assessing the effectiveness of the EU Emissions Trading Scheme
     year: '2013'
   5rj_iEMAAAAJ:abG-DnoFyZgC:
@@ -178,23 +198,23 @@ papers:
     title: 'EmissionsEUETS trading: lessonsfor learnt from the 1st phase of the and prospects the 2nd phase'
     year: '2010'
   5rj_iEMAAAAJ:d1gkVwhDpl0C:
-    citations: 207
+    citations: 208
     title: 'Emissions trading: lessons learnt from the 1st phase of the EU ETS and prospects for the 2nd phase'
     year: '2006'
-  5rj_iEMAAAAJ:dfsIfKJdRG4C:
-    citations: 0
-    title: 'Adoption, incidence and welfare impacts of interest-free loans: evidence from solar PV'
-    year: '2025'
   5rj_iEMAAAAJ:dhFuZR0502QC:
     citations: 0
     title: "Staying with the Leaders: Europe\u2019s Path to a Successful Low-Carbon Economy"
     year: '2014'
+  5rj_iEMAAAAJ:dshw04ExmUIC:
+    citations: 3
+    title: 'Climate litigation as a financial risk: evidence from a global survey of equity investors'
+    year: '2026'
   5rj_iEMAAAAJ:e5wmG9Sq2KIC:
     citations: 5
     title: 'Energy and Climate: Opportunities for the G-8'
     year: '2008'
   5rj_iEMAAAAJ:eQOLeE2rZwMC:
-    citations: 330
+    citations: 332
     title: Who will win the green race? In search of environmental competitiveness and innovation
     year: '2013'
   5rj_iEMAAAAJ:f2IySw72cVMC:
@@ -202,7 +222,7 @@ papers:
     title: Who will win the green race? In search of environmental competitiveness and innovation
     year: '2012'
   5rj_iEMAAAAJ:fPk4N6BV_jEC:
-    citations: 10
+    citations: 11
     title: "Industrial decarbonisation in a fragmented world: an effective carbon price with a \u2018climate contribution\u2019"
     year: '2025'
   5rj_iEMAAAAJ:g5m5HwL7SMYC:
@@ -218,7 +238,7 @@ papers:
     title: Does it pay for firms to go green?
     year: '2020'
   5rj_iEMAAAAJ:lSLTfruPkqcC:
-    citations: 65
+    citations: 66
     title: "Who\u2019s fit for the low-carbon transition? Emerging skills and wage gaps in job and data"
     year: '2022'
   5rj_iEMAAAAJ:ldfaerwXgEUC:
@@ -258,7 +278,7 @@ papers:
     title: 'Modernization and innovation in the materials sector: Lessons from steel and cement'
     year: '2015'
   5rj_iEMAAAAJ:rO6llkc54NcC:
-    citations: 67
+    citations: 68
     title: 'The impact of energy prices on industrial investment location: evidence from global firm level data'
     year: '2024'
   5rj_iEMAAAAJ:u-x6o8ySG0sC:
@@ -269,16 +289,24 @@ papers:
     citations: 319
     title: 'Allocation, incentives and distortions: the impact of EU ETS emissions allowance allocations to the electricity sector'
     year: '2006'
+  5rj_iEMAAAAJ:uWQEDVKXjbEC:
+    citations: 0
+    title: 'Industrial decarbonization in a fragmented world: Carbon pricing with border adjustments using standardized values'
+    year: '2026'
   5rj_iEMAAAAJ:vV6vV6tmYwMC:
     citations: 3
     title: 'Designing border carbon adjustments and alternative measures: An overview'
     year: '2021'
+  5rj_iEMAAAAJ:xtRiw3GOFMkC:
+    citations: 0
+    title: Review of Environmental Economics and Policy
+    year: Unknown Year
   5rj_iEMAAAAJ:yD5IFk8b50cC:
-    citations: 1
+    citations: 2
     title: 'Emerging skills and wage gaps in the low-carbon transition: evidence from online job vacancy data'
     year: '2025'
   5rj_iEMAAAAJ:zA6iFVUQeVQC:
-    citations: 67
+    citations: 69
     title: Impacts of climate litigation on firm value
     year: '2024'
   5rj_iEMAAAAJ:zYLM7Y9cAGgC:
